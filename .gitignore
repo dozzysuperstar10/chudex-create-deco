@@ -1,0 +1,19 @@
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Python backend files (for later stages)
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# Logs and generated files
+*.log
+dist/
+build/
